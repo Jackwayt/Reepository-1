@@ -1,5 +1,6 @@
+#include <stdio.h>
 
 int main(){
-   printf("testing you forgot the ");
+   puts("testing you forgot the ");
    return 0;
 }
